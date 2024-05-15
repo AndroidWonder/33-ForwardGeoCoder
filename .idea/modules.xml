@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/33-ForwardGeoCoder.iml" filepath="$PROJECT_DIR$/33-ForwardGeoCoder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/33-ForwardGeoCoder.iml" filepath="$PROJECT_DIR$/.idea/modules/33-ForwardGeoCoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/33-ForwardGeoCoder.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/33-ForwardGeoCoder.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/33-ForwardGeoCoder.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/33-ForwardGeoCoder.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/33-ForwardGeoCoder.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/33-ForwardGeoCoder.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/33-ForwardGeoCoder.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/33-ForwardGeoCoder.app.unitTest.iml" />
     </modules>
   </component>
 </project>
